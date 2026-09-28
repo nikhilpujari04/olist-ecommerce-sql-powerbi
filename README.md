@@ -1,6 +1,6 @@
 # Olist E-Commerce Analytics: SQL + Power BI
 
-![Olist dashboard](dashboard/dashboard-screenshot.png)
+![Olist dashboard](dashboard/dashboard.png)
 
 ## Overview
 End-to-end analysis of about 100K orders from Olist, a Brazilian online marketplace (Sep 2016 to Sep 2018). The raw relational data is loaded into PostgreSQL with an explicit schema, analyzed with SQL (CTEs, window functions, JOINs, CASE bucketing), and presented in a single-page Power BI dashboard with a Year filter.
@@ -74,7 +74,6 @@ queries/
 dashboard/
     dashboard-screenshot.png
     dashboard.pdf
-    olist_ecommerce_visualization.pbix
 ```
 
 ## SQL Techniques Demonstrated
