@@ -72,8 +72,10 @@ queries/
         delay_bucket_rowlevel.sql
         category_rowlevel.sql
 dashboard/
-    dashboard-screenshot.png
+    dashboard.png
     dashboard.pdf
+    olist ecommerce visualization.pbix
+
 ```
 
 ## SQL Techniques Demonstrated
